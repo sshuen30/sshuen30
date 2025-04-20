@@ -1,5 +1,5 @@
 <h1 align="left">Hi there👋</h1>
-<h4 align="left">Hello, I'm an enthusiastic individual on a journey to become a DevOps engineer. My passion lies in streamlining development and operations processes to enhance software delivery and system reliability through DevOps practices. With a background in engineering and a strong foundation in Python, Linux administration, bash scripting, I am embarking on a continuous learning process. I'm currently expanding my knowledge in containerization with Docker and Kubernetes and picking up CI/CD tools like Gitlab CI/CD, Jenkins essential for building efficient pipelines.</h4>
+<h4 align="left">Hello! I’m an aspiring DevOps engineer passionate about optimizing software delivery and enhancing system reliability through streamlined development and operational practices. With an engineering background and solid skills in Python, Linux administration, and Bash scripting, I’m continually expanding my expertise in containerization technologies such as Docker and Kubernetes. Additionally, I’m actively building proficiency with essential CI/CD tools like GitLab CI/CD and Jenkins to create efficient deployment pipelines.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sshuen30&label=Profile%20views&color=0e75b6&style=flat" alt="sshuen30" /> </p>
 
